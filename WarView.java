@@ -1,7 +1,7 @@
 /**
  * View for the GUI version of the War Game
  * @author Trevor Stalnaker
- *
+ * @editors Joe Wen, MacKenzie Leroy and Michael Dik
  */
 
 import javax.swing.*;
