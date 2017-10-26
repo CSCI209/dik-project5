@@ -1,7 +1,7 @@
 /**
  * Model of a player object
  * @author Trevor Stalnaker
- *
+ * @editor MacKenzie Leroy, Joe Wen
  */
 
 import java.util.*;
