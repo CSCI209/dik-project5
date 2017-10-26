@@ -1,7 +1,8 @@
 /**
- * Models a Game of War
+ * Models a Game of War, acts as a dealer for the game
+ * and returns the state of the game.
  * @author Trevor Stalnaker
- *
+ * @editors Joe Wen, MacKenzie Leroy and Michael Dik
  */
 
 import java.util.*;
