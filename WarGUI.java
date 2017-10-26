@@ -1,8 +1,8 @@
 import javax.swing.JFrame;
 /**
- * Creates the War GUI window
+ * Creates the War GUI window, and sets up the parameters and title for the game.
  * @author Trevor Stalnaker
- *
+ * @editor Joe Wen, MacKenzie Leroy and Michael Dik.
  */
 public class WarGUI{
 
