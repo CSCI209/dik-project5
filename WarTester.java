@@ -1,7 +1,7 @@
 /**
  * A tester program for the WarGame model
  * @author Trevor Stalnaker
- * @editor Joe Wen, MacKenzie Leroy and Michael dik
+ * @editors Joe Wen, MacKenzie Leroy and Michael dik
  *
  */
 
